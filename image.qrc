@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>back.jpg</file>
+        <file>asd.jpg</file>
+    </qresource>
+    <qresource prefix="/bimage">
+        <file>../web/hweb/cms/uploads/7663273926665552.jpg</file>
+        <file>../web/hweb/cms/uploads/9666806278008239.jpg</file>
+        <file>../web/hweb/cms/uploads/baner.png</file>
+    </qresource>
+</RCC>
